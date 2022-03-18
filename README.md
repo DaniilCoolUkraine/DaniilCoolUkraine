@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaniilCoolUkraine
 - 👀 I’m interested in web&game development
-- 🌱 I’m currently learning scss and js
+- 🌱 I’m currently learning c# and Unity3D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
